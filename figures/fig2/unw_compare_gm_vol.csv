@@ -1,0 +1,455 @@
+index,name,base_name,Label Name,network,component,hemisphere,f,pvalue,n,p_corrected
+1,7Networks_LH_Vis_1,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,235.69992022395772,2.2898735761968417e-50,2000.0,5.146547542541417e-50
+2,7Networks_LH_Vis_2,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,109.28517046280732,6.112283249095307e-25,2000.0,7.283403136717243e-25
+3,7Networks_LH_Vis_3,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,141.59413157914972,1.3584740424149887e-31,2000.0,1.8139623978129555e-31
+4,7Networks_LH_Vis_4,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,222.4147919874864,9.096297933491217e-48,2000.0,1.8192595866982434e-47
+5,7Networks_LH_Vis_5,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,244.2260924290528,5.014699817052129e-52,2000.0,1.1919757680322861e-51
+6,7Networks_LH_Vis_6,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,136.04579083215057,1.851439202217786e-30,2000.0,2.422344085898775e-30
+7,7Networks_LH_Vis_7,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,282.36860169546827,2.2654940037695274e-59,2000.0,7.5627520419953345e-59
+8,7Networks_LH_Vis_8,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,248.64827114418824,6.951418117908479e-53,2000.0,1.726125602995736e-52
+9,7Networks_LH_Vis_9,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,154.7366078467296,2.875447530082188e-34,2000.0,4.0668323322657734e-34
+10,7Networks_LH_Vis_10,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,98.461818469755,1.0998180277628423e-22,2000.0,1.2737688382763531e-22
+11,7Networks_LH_Vis_11,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,134.20237901638595,4.417261220762883e-30,2000.0,5.6972630517794e-30
+12,7Networks_LH_Vis_12,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,66.88550119206175,5.060096685521053e-16,2000.0,5.509074089272322e-16
+13,7Networks_LH_Vis_13,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,160.08954016411874,2.3688904021217493e-35,2000.0,3.458122966441396e-35
+14,7Networks_LH_Vis_14,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,113.3836300310533,8.626169135301082e-26,2000.0,1.0360531183668495e-25
+15,7Networks_LH_Vis_15,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,42.932762011574695,7.188751161136272e-11,2000.0,7.572373612890643e-11
+16,7Networks_LH_Vis_16,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,113.7964467541525,7.08384946279125e-26,2000.0,8.530683437950205e-26
+17,7Networks_LH_Vis_17,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,215.31072124083207,2.2664655503316444e-46,2000.0,4.341668185023488e-46
+18,7Networks_LH_Vis_18,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,158.43179956357656,5.128432905624501e-35,2000.0,7.368064997321277e-35
+19,7Networks_LH_Vis_19,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,132.43737611617868,1.0164243581307754e-29,2000.0,1.3035498830264748e-29
+20,7Networks_LH_Vis_20,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,130.1873355434368,2.944033352961149e-29,2000.0,3.7127531729010045e-29
+21,7Networks_LH_Vis_21,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,151.2024568811153,1.5000488114216412e-33,2000.0,2.0890250318571323e-33
+22,7Networks_LH_Vis_22,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,44.10882952014634,3.9922970826389807e-11,2000.0,4.2249484277811125e-11
+23,7Networks_LH_Vis_23,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,180.71570467514977,1.674744060148531e-39,2000.0,2.6585098017742414e-39
+24,7Networks_LH_Vis_24,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,117.74626164355911,1.0782453900210614e-26,2000.0,1.3053957521854984e-26
+25,7Networks_LH_Vis_25,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,145.08060203537238,2.641445119764454e-32,2000.0,3.590467318482222e-32
+26,7Networks_LH_Vis_26,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,142.22153656587977,1.0115141557467503e-31,2000.0,1.358661025766345e-31
+27,7Networks_LH_Vis_27,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,186.2004921556804,1.3406593889570344e-40,2000.0,2.205287545603238e-40
+28,7Networks_LH_Vis_28,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,165.24642348933315,2.1519953794533995e-36,2000.0,3.224441921689252e-36
+29,7Networks_LH_Vis_29,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,98.88317783269399,8.979831722669616e-23,2000.0,1.0453445133569245e-22
+30,7Networks_LH_Vis_30,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,103.35024384554677,1.0497278901483618e-23,2000.0,1.2378609405905358e-23
+31,7Networks_LH_Vis_31,7networks_lh_vis,7Networks_LH_Vis,visual,visual,L,99.46189599739901,6.797772087248107e-23,2000.0,7.933646600541492e-23
+32,7Networks_LH_SomMot_1,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,613.248528247833,2.775491093257166e-118,2000.0,3.150182390846883e-116
+33,7Networks_LH_SomMot_2,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,232.29527780839265,1.0576572380936023e-49,2000.0,2.3423238346072947e-49
+34,7Networks_LH_SomMot_3,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,310.3475454331562,1.1149874843984763e-64,2000.0,4.4403887536570895e-64
+35,7Networks_LH_SomMot_4,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,433.0627745020792,3.293124089935982e-87,2000.0,4.1529953800859326e-86
+36,7Networks_LH_SomMot_5,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,183.42240297249663,4.812865858009405e-40,2000.0,7.72099328458046e-40
+37,7Networks_LH_SomMot_6,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,176.1054608875744,1.4060475138858416e-38,2000.0,2.2011916251868003e-38
+38,7Networks_LH_SomMot_7,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,129.46105608009387,4.150912417646032e-29,2000.0,5.220261046014678e-29
+39,7Networks_LH_SomMot_8,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,271.40787476696596,2.8366087621848227e-57,2000.0,8.820687520766503e-57
+40,7Networks_LH_SomMot_9,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,134.29416678525922,4.2300034706131445e-30,2000.0,5.471286540337229e-30
+41,7Networks_LH_SomMot_10,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,152.51235717382104,8.12938830423494e-34,2000.0,1.1356130123454347e-33
+42,7Networks_LH_SomMot_11,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,160.08178087144736,2.37746642170659e-35,2000.0,3.459518446970487e-35
+43,7Networks_LH_SomMot_12,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,214.10783403219457,3.910852030118667e-46,2000.0,7.428982517463911e-46
+44,7Networks_LH_SomMot_13,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,56.80391784286281,7.259464311257877e-14,2000.0,7.773105654035557e-14
+45,7Networks_LH_SomMot_14,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,262.1841668147796,1.6831354599508765e-55,2000.0,4.775896867610612e-55
+46,7Networks_LH_SomMot_15,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,235.44425934633534,2.5684784848217925e-50,2000.0,5.744281931571891e-50
+47,7Networks_LH_SomMot_16,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,228.32274405766046,6.324973568628724e-49,2000.0,1.3609184834869388e-48
+48,7Networks_LH_SomMot_17,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,345.86726514154105,2.5290110004517104e-71,2000.0,1.3668702311965197e-70
+49,7Networks_LH_SomMot_18,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,449.578746831442,3.7493955206329856e-90,2000.0,5.491050214088308e-89
+50,7Networks_LH_SomMot_19,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,350.01555229019885,4.302165959168126e-72,2000.0,2.41133746353374e-71
+51,7Networks_LH_SomMot_20,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,170.74100988805674,1.6821380180570072e-37,2000.0,2.5713490242352905e-37
+52,7Networks_LH_SomMot_21,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,45.52452423932413,1.96846034425845e-11,2000.0,2.0929297337080475e-11
+53,7Networks_LH_SomMot_22,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,322.3507176155744,6.170678617605763e-67,2000.0,2.71989135183788e-66
+54,7Networks_LH_SomMot_23,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,157.35426487693672,8.475612356922852e-35,2000.0,1.2100402547304952e-34
+55,7Networks_LH_SomMot_24,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,130.91579888904548,2.0861743925345612e-29,2000.0,2.653006090226025e-29
+56,7Networks_LH_SomMot_25,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,226.46988324380118,1.458230307812048e-48,2000.0,3.022997989710821e-48
+57,7Networks_LH_SomMot_26,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,209.45856599729672,3.230495556236434e-45,2000.0,5.93783393737385e-45
+58,7Networks_LH_SomMot_27,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,144.96756146198427,2.7853572360537733e-32,2000.0,3.7747826422937705e-32
+59,7Networks_LH_SomMot_28,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,464.3489472911096,9.087714694753092e-93,2000.0,1.7190926964241265e-91
+60,7Networks_LH_SomMot_29,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,212.22609347183422,9.18697388341704e-46,2000.0,1.7235066706906346e-45
+61,7Networks_LH_SomMot_30,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,219.12722779294938,4.0228749455639544e-47,2000.0,7.940805327330588e-47
+62,7Networks_LH_SomMot_31,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,326.33395979843874,1.1066476592141674e-67,2000.0,5.074929669527596e-67
+63,7Networks_LH_SomMot_32,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,106.85242068819703,1.9583335984208513e-24,2000.0,2.3274435960289698e-24
+64,7Networks_LH_SomMot_33,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,197.6479473215185,7.045215745395749e-43,2000.0,1.2115636168218449e-42
+65,7Networks_LH_SomMot_34,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,173.6970292374673,4.2812004946643513e-38,2000.0,6.611105525774202e-38
+66,7Networks_LH_SomMot_35,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,332.0755262742253,9.344009969921714e-69,2000.0,4.713533918160509e-68
+67,7Networks_LH_SomMot_36,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,58.56335807410721,3.043351747329244e-14,2000.0,3.2663869817670844e-14
+68,7Networks_LH_SomMot_37,7networks_lh_sommot,7Networks_LH_SomMot,somatomotor,somatomotor,L,248.64623764557408,6.957730954806601e-53,2000.0,1.726125602995736e-52
+69,7Networks_LH_DorsAttn_Post_1,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,243.5233508710498,6.867223551916423e-52,2000.0,1.615398700813501e-51
+70,7Networks_LH_DorsAttn_Post_2,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,262.7761838365663,1.294421268755631e-55,2000.0,3.696020478082116e-55
+71,7Networks_LH_DorsAttn_Post_3,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,219.25984093507327,3.7885425838374706e-47,2000.0,7.510909751363369e-47
+72,7Networks_LH_DorsAttn_Post_4,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,125.3736153193584,2.8767616206297486e-28,2000.0,3.549048303711701e-28
+73,7Networks_LH_DorsAttn_Post_5,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,65.26039225979399,1.1239811124139666e-15,2000.0,1.2120841449784819e-15
+74,7Networks_LH_DorsAttn_Post_6,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,296.1627543444597,5.369891888813709e-62,2000.0,1.9348658075566856e-61
+75,7Networks_LH_DorsAttn_Post_7,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,134.41024463783282,4.004527536201397e-30,2000.0,5.194444289815526e-30
+76,7Networks_LH_DorsAttn_Post_8,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,337.62514195366634,8.620070496361524e-70,2000.0,4.498289661319692e-69
+77,7Networks_LH_DorsAttn_Post_9,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,128.34912384147148,7.025554764055306e-29,2000.0,8.811054869837318e-29
+78,7Networks_LH_DorsAttn_Post_10,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,138.2900919851763,6.430258969043981e-31,2000.0,8.437391826433432e-31
+79,7Networks_LH_DorsAttn_Post_11,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,299.94854535718804,1.0287688986361942e-62,2000.0,3.828369508039608e-62
+80,7Networks_LH_DorsAttn_Post_12,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,207.42877246587184,8.133006437913511e-45,2000.0,1.4652321122272753e-44
+81,7Networks_LH_DorsAttn_Post_13,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,117.93682240623049,9.847337685062082e-27,2000.0,1.1985767584499157e-26
+82,7Networks_LH_DorsAttn_Post_14,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,110.59195835436438,3.2722787133767195e-25,2000.0,3.9095119365079756e-25
+83,7Networks_LH_DorsAttn_Post_15,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,96.37158690953648,3.009115747294782e-22,2000.0,3.4498448213935127e-22
+84,7Networks_LH_DorsAttn_Post_16,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,138.51297530066125,5.789567706491526e-31,2000.0,7.618735474629428e-31
+85,7Networks_LH_DorsAttn_Post_17,7networks_lh_dorsattn_post,7Networks_LH_DorsAttn_Post,dorsal attention,posterior,L,22.149013861699036,2.696115389807893e-06,2000.0,2.788237783537092e-06
+86,7Networks_LH_DorsAttn_FEF_1,7networks_lh_dorsattn_fef,7Networks_LH_DorsAttn_FEF,dorsal attention,frontal eye fields,L,302.54030314735655,3.3244083866604996e-63,2000.0,1.2577345062865556e-62
+87,7Networks_LH_DorsAttn_FEF_2,7networks_lh_dorsattn_fef,7Networks_LH_DorsAttn_FEF,dorsal attention,frontal eye fields,L,296.540315466994,4.553435594174602e-62,2000.0,1.6538078078042156e-61
+88,7Networks_LH_DorsAttn_FEF_3,7networks_lh_dorsattn_fef,7Networks_LH_DorsAttn_FEF,dorsal attention,frontal eye fields,L,198.90624435845814,3.963769886857808e-43,2000.0,6.842401249556825e-43
+89,7Networks_LH_DorsAttn_FEF_4,7networks_lh_dorsattn_fef,7Networks_LH_DorsAttn_FEF,dorsal attention,frontal eye fields,L,160.03530059018777,2.429493800178786e-35,2000.0,3.52393030441268e-35
+90,7Networks_LH_DorsAttn_PrCv_1,7networks_lh_dorsattn_prcv,7Networks_LH_DorsAttn_PrCv,dorsal attention,precentral ventral,L,280.55145103001007,5.037392102390396e-59,2000.0,1.669325558018423e-58
+91,7Networks_LH_DorsAttn_PrCv_2,7networks_lh_dorsattn_prcv,7Networks_LH_DorsAttn_PrCv,dorsal attention,precentral ventral,L,227.89494942295264,7.66986446242828e-49,2000.0,1.6347974018509106e-48
+92,7Networks_LH_SalVentAttn_ParOper_1,7networks_lh_salventattn_paroper,7Networks_LH_SalVentAttn_ParOper,salience / ventral attention,parietal operculum,L,239.05563174571074,5.079943366538932e-51,2000.0,1.1647950951558966e-50
+93,7Networks_LH_SalVentAttn_ParOper_2,7networks_lh_salventattn_paroper,7Networks_LH_SalVentAttn_ParOper,salience / ventral attention,parietal operculum,L,260.6277452508774,3.358058333788153e-55,2000.0,9.129092715807315e-55
+94,7Networks_LH_SalVentAttn_ParOper_3,7networks_lh_salventattn_paroper,7Networks_LH_SalVentAttn_ParOper,salience / ventral attention,parietal operculum,L,247.93449080994063,9.560301417336967e-53,2000.0,2.333535937349991e-52
+95,7Networks_LH_SalVentAttn_ParOper_4,7networks_lh_salventattn_paroper,7Networks_LH_SalVentAttn_ParOper,salience / ventral attention,parietal operculum,L,142.04681989810115,1.0980818681941323e-31,2000.0,1.4705875166965666e-31
+96,7Networks_LH_SalVentAttn_TempOcc_1,7networks_lh_salventattn_tempocc,7Networks_LH_SalVentAttn_TempOcc,salience / ventral attention,temporal occipital,L,356.0657723676066,3.267440722808112e-73,2000.0,1.9778907842065103e-72
+97,7Networks_LH_SalVentAttn_FrOperIns_1,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,510.6725735502982,7.198454835170383e-101,2000.0,2.513921919359503e-99
+98,7Networks_LH_SalVentAttn_FrOperIns_2,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,451.19298600353414,1.9379166716781586e-90,2000.0,3.0338419618685656e-89
+99,7Networks_LH_SalVentAttn_FrOperIns_3,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,395.9988609472876,1.5776818451566325e-80,2000.0,1.4325351154022224e-79
+100,7Networks_LH_SalVentAttn_FrOperIns_4,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,425.03207782497196,9.041764766700185e-86,2000.0,1.026240301020471e-84
+101,7Networks_LH_SalVentAttn_FrOperIns_5,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,431.13589197722473,7.283771224373144e-87,2000.0,8.937384150987588e-86
+102,7Networks_LH_SalVentAttn_FrOperIns_6,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,349.66823819088347,4.989308210900376e-72,2000.0,2.7623730826204525e-71
+103,7Networks_LH_SalVentAttn_FrOperIns_7,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,548.349379365842,2.3927661463143842e-107,2000.0,1.551879757752472e-105
+104,7Networks_LH_SalVentAttn_FrOperIns_8,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,518.3053979261192,3.442806695992785e-102,2000.0,1.3025285333172704e-100
+105,7Networks_LH_SalVentAttn_FrOperIns_9,7networks_lh_salventattn_froperins,7Networks_LH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,L,257.71652977482665,1.2238857019717923e-54,2000.0,3.249380752603472e-54
+106,7Networks_LH_SalVentAttn_PFCl_1,7networks_lh_salventattn_pfcl,7Networks_LH_SalVentAttn_PFCl,salience / ventral attention,lateral prefrontal cortex,L,392.38509110076734,7.161031854953497e-80,2000.0,6.134166909714883e-79
+107,7Networks_LH_SalVentAttn_Med_1,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,396.46540347884866,1.2980127125525395e-80,2000.0,1.2026485132629651e-79
+108,7Networks_LH_SalVentAttn_Med_2,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,352.3335026101406,1.601204925782775e-72,2000.0,9.201861219055442e-72
+109,7Networks_LH_SalVentAttn_Med_3,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,383.8939245181509,2.5268905309669303e-78,2000.0,1.9120138350983105e-77
+110,7Networks_LH_SalVentAttn_Med_4,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,388.82947571184485,3.179402242351231e-79,2000.0,2.6730529963471465e-78
+111,7Networks_LH_SalVentAttn_Med_5,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,167.94951444560309,6.1359157145697875e-37,2000.0,9.348005820183501e-37
+112,7Networks_LH_SalVentAttn_Med_6,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,164.03151878772994,3.7845442581669145e-36,2000.0,5.6519180697624316e-36
+113,7Networks_LH_SalVentAttn_Med_7,7networks_lh_salventattn_med,7Networks_LH_SalVentAttn_Med,salience / ventral attention,medial,L,130.4371938437938,2.6159359859106864e-29,2000.0,3.308175313658639e-29
+114,7Networks_LH_Limbic_OFC_1,7networks_lh_limbic_ofc,7Networks_LH_Limbic_OFC,limbic,orbital frontal cortex,L,157.67632520752744,7.293664239232084e-35,2000.0,1.0445815661234594e-34
+115,7Networks_LH_Limbic_OFC_2,7networks_lh_limbic_ofc,7Networks_LH_Limbic_OFC,limbic,orbital frontal cortex,L,531.6887879253832,1.7044618094374616e-104,2000.0,7.738256614846075e-103
+116,7Networks_LH_Limbic_OFC_3,7networks_lh_limbic_ofc,7Networks_LH_Limbic_OFC,limbic,orbital frontal cortex,L,336.49486146006336,1.3999360844486832e-69,2000.0,7.141246992580924e-69
+117,7Networks_LH_Limbic_OFC_4,7networks_lh_limbic_ofc,7Networks_LH_Limbic_OFC,limbic,orbital frontal cortex,L,412.8657753951103,1.3963762297503316e-83,2000.0,1.440806382515115e-82
+118,7Networks_LH_Limbic_OFC_5,7networks_lh_limbic_ofc,7Networks_LH_Limbic_OFC,limbic,orbital frontal cortex,L,276.9988190319354,2.407231366093006e-58,2000.0,7.750943547561877e-58
+119,7Networks_LH_Limbic_TempPole_1,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,46.85156191585207,1.0153783094972949e-11,2000.0,1.0821167899337369e-11
+120,7Networks_LH_Limbic_TempPole_2,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,21.251377589832263,4.283171915978285e-06,2000.0,4.419454658759412e-06
+121,7Networks_LH_Limbic_TempPole_3,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,8.426949958236364,0.003737572846869418,2000.0,0.0037791939253423515
+122,7Networks_LH_Limbic_TempPole_4,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,103.06997009038136,1.20086699582257e-23,2000.0,1.4124186945685152e-23
+123,7Networks_LH_Limbic_TempPole_5,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,140.25459172999936,2.550620498746308e-31,2000.0,3.3760399604397197e-31
+124,7Networks_LH_Limbic_TempPole_6,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,185.66108090372643,1.7180609769164668e-40,2000.0,2.8057542572664603e-40
+125,7Networks_LH_Limbic_TempPole_7,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,215.7860651989077,1.8270983630240686e-46,2000.0,3.51484176615647e-46
+126,7Networks_LH_Limbic_TempPole_8,7networks_lh_limbic_temppole,7Networks_LH_Limbic_TempPole,limbic,temporal pole,L,33.03462512299158,1.044811009167816e-08,2000.0,1.0904464325567551e-08
+127,7Networks_LH_Cont_Par_1,7networks_lh_cont_par,7Networks_LH_Cont_Par,control,parietal ,L,236.0899938614642,1.9219517454500959e-50,2000.0,4.362830462171718e-50
+128,7Networks_LH_Cont_Par_2,7networks_lh_cont_par,7Networks_LH_Cont_Par,control,parietal ,L,218.05259044869584,6.54350697853335e-47,2000.0,1.2804966242474746e-46
+129,7Networks_LH_Cont_Par_3,7networks_lh_cont_par,7Networks_LH_Cont_Par,control,parietal ,L,326.740679547834,9.287045484902852e-68,2000.0,4.302365969536627e-67
+130,7Networks_LH_Cont_Par_4,7networks_lh_cont_par,7Networks_LH_Cont_Par,control,parietal ,L,162.9750104320568,6.18502884792951e-36,2000.0,9.206567531016386e-36
+131,7Networks_LH_Cont_Par_5,7networks_lh_cont_par,7Networks_LH_Cont_Par,control,parietal ,L,279.24174904359774,8.964205248928106e-59,2000.0,2.927877110081554e-58
+132,7Networks_LH_Cont_Par_6,7networks_lh_cont_par,7Networks_LH_Cont_Par,control,parietal ,L,379.1414089757992,1.8673946071251536e-77,2000.0,1.3674147607013221e-76
+133,7Networks_LH_Cont_Temp_1,7networks_lh_cont_temp,7Networks_LH_Cont_Temp,control,temporal,L,210.7312409185058,1.811557016197837e-45,2000.0,3.3432800217634875e-45
+134,7Networks_LH_Cont_OFC_1,7networks_lh_cont_ofc,7Networks_LH_Cont_OFC,control,orbital frontal cortex,L,227.26594172213376,1.0184249753291364e-48,2000.0,2.1307140036839997e-48
+135,7Networks_LH_Cont_PFCl_1,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,438.1178068523358,4.1162490103152717e-88,2000.0,5.662960759645859e-87
+136,7Networks_LH_Cont_PFCl_2,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,294.8783689941526,9.412701425439661e-62,2000.0,3.33856753683563e-61
+137,7Networks_LH_Cont_PFCl_3,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,330.01988505847015,2.262334129304556e-68,2000.0,1.0926592496853918e-67
+138,7Networks_LH_Cont_PFCl_4,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,415.86681644457553,4.0185375003448344e-84,2000.0,4.24282796548036e-83
+139,7Networks_LH_Cont_PFCl_5,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,326.0892822053965,1.2297473143978071e-67,2000.0,5.5830528073660445e-67
+140,7Networks_LH_Cont_PFCl_6,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,404.41200440345773,4.704001556524943e-82,2000.0,4.642645014483314e-81
+141,7Networks_LH_Cont_PFCl_7,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,288.83312037430903,1.3269637869665735e-60,2000.0,4.4958325319613754e-60
+142,7Networks_LH_Cont_PFCl_8,7networks_lh_cont_pfcl,7Networks_LH_Cont_PFCl,control,lateral prefrontal cortex,L,223.22113708782143,6.319060045690531e-48,2000.0,1.2694040976741157e-47
+143,7Networks_LH_Cont_PFCv_1,7networks_lh_cont_pfcv,7Networks_LH_Cont_PFCv,control,ventral prefrontal cortex,L,259.4228446936757,5.733970958754239e-55,2000.0,1.54036852974818e-54
+144,7Networks_LH_Cont_pCun_1,7networks_lh_cont_pcun,7Networks_LH_Cont_pCun,control,precuneus,L,125.65472444978964,2.5178108196416756e-28,2000.0,3.114676054815588e-28
+145,7Networks_LH_Cont_pCun_2,7networks_lh_cont_pcun,7Networks_LH_Cont_pCun,control,precuneus,L,162.59677013102623,7.374671152166722e-36,2000.0,1.0905865482357301e-35
+146,7Networks_LH_Cont_Cing_1,7networks_lh_cont_cing,7Networks_LH_Cont_Cing,control,cingulate,L,165.71393247040587,1.73195196407322e-36,2000.0,2.612312929200139e-36
+147,7Networks_LH_Cont_Cing_2,7networks_lh_cont_cing,7Networks_LH_Cont_Cing,control,cingulate,L,125.94533725764073,2.1937876986481295e-28,2000.0,2.7212557791974064e-28
+148,7Networks_LH_Cont_PFCmp_1,7networks_lh_cont_pfcmp,7Networks_LH_Cont_PFCmp,control,medial posterior prefrontal cortex,L,485.4840398509781,1.7512054537778414e-96,2000.0,4.416929311195222e-95
+149,7Networks_LH_Default_Temp_1,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,248.54545830885735,7.277889512636577e-53,2000.0,1.7957401297483728e-52
+150,7Networks_LH_Default_Temp_2,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,263.9589213010364,7.6618014615626215e-56,2000.0,2.229780681762455e-55
+151,7Networks_LH_Default_Temp_3,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,250.50005975440538,3.042523256495435e-53,2000.0,7.716790829323617e-53
+152,7Networks_LH_Default_Temp_4,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,425.48005685899676,7.514040809200097e-86,2000.0,8.747114172761138e-85
+153,7Networks_LH_Default_Temp_5,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,248.46649666413802,7.539007595954784e-53,2000.0,1.8501132154397143e-52
+154,7Networks_LH_Default_Temp_6,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,444.12097019477363,3.50324350232704e-89,2000.0,4.970226718926487e-88
+155,7Networks_LH_Default_Temp_7,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,228.09569995666837,7.006388779732606e-49,2000.0,1.5004247669804733e-48
+156,7Networks_LH_Default_Temp_8,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,158.9661880560995,3.997808457421651e-35,2000.0,5.761920760855333e-35
+157,7Networks_LH_Default_Temp_9,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,243.27820231892719,7.663404590295417e-52,2000.0,1.7933946824711957e-51
+158,7Networks_LH_Default_Temp_10,7networks_lh_default_temp,7Networks_LH_Default_Temp,default,temporal,L,203.21022665772017,5.557245110849393e-44,2000.0,9.855426876271971e-44
+159,7Networks_LH_Default_Par_1,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,252.57041034876534,1.2089373306512803e-53,2000.0,3.100890102348482e-53
+160,7Networks_LH_Default_Par_2,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,229.294553576492,4.0824058941442415e-49,2000.0,8.868001320294189e-49
+161,7Networks_LH_Default_Par_3,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,160.26620784524954,2.1817910493667584e-35,2000.0,3.1952681819758334e-35
+162,7Networks_LH_Default_Par_4,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,260.7870303677866,3.128811517464871e-55,2000.0,8.557111017644888e-55
+163,7Networks_LH_Default_Par_5,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,319.3921882064532,2.215689426217016e-66,2000.0,9.489839617948351e-66
+164,7Networks_LH_Default_Par_6,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,252.75739520882485,1.1122986181770664e-53,2000.0,2.8692248446158417e-53
+165,7Networks_LH_Default_Par_7,7networks_lh_default_par,7Networks_LH_Default_Par,default,parietal,L,216.81322675197882,1.1471046087983883e-46,2000.0,2.235130868645787e-46
+166,7Networks_LH_Default_PFC_1,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,518.3059969932765,3.441986567385871e-102,2000.0,1.3025285333172704e-100
+167,7Networks_LH_Default_PFC_2,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,355.331068375411,4.466777530733063e-73,2000.0,2.6683118407273825e-72
+168,7Networks_LH_Default_PFC_3,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,257.93410325473707,1.1110640996640807e-54,2000.0,2.9671947132205446e-54
+169,7Networks_LH_Default_PFC_4,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,504.5684250319523,8.242509470986522e-100,2000.0,2.4947328665519206e-98
+170,7Networks_LH_Default_PFC_5,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,323.416324699743,3.895347979264778e-67,2000.0,1.7338117476335383e-66
+171,7Networks_LH_Default_PFC_6,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,394.5213628903067,2.927491351203589e-80,2000.0,2.606041320483195e-79
+172,7Networks_LH_Default_PFC_7,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,353.21425670247464,1.1001735075799245e-72,2000.0,6.486737304432282e-72
+173,7Networks_LH_Default_PFC_8,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,387.22096404484074,6.244947625918438e-79,2000.0,5.154920403939947e-78
+174,7Networks_LH_Default_PFC_9,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,473.580876426126,2.1464338975615753e-94,2000.0,4.429459043149796e-93
+175,7Networks_LH_Default_PFC_10,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,385.61588550551414,1.225425110534161e-78,2000.0,9.760403511973843e-78
+176,7Networks_LH_Default_PFC_11,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,275.6915123943179,4.2831949447485976e-58,2000.0,1.3598395139271772e-57
+177,7Networks_LH_Default_PFC_12,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,639.2812223021375,1.3601888421596555e-122,2000.0,3.0876286717024177e-120
+178,7Networks_LH_Default_PFC_13,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,699.0530929507958,2.5017320578184374e-132,2000.0,1.1357863542495704e-129
+179,7Networks_LH_Default_PFC_14,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,345.9819186425508,2.4080781380970238e-71,2000.0,1.3171897285494564e-70
+180,7Networks_LH_Default_PFC_15,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,372.87140586145426,2.6299886446960092e-76,2000.0,1.836945914910751e-75
+181,7Networks_LH_Default_PFC_16,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,396.6380148855968,1.2076217127827375e-80,2000.0,1.1422088700070058e-79
+182,7Networks_LH_Default_PFC_17,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,182.2372181670849,8.30696509266276e-40,2000.0,1.327944419742568e-39
+183,7Networks_LH_Default_PFC_18,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,209.29064451252563,3.4867999474384886e-45,2000.0,6.38309345216562e-45
+184,7Networks_LH_Default_PFC_19,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,187.38001519878412,7.795909423403688e-41,2000.0,1.2917309774544796e-40
+185,7Networks_LH_Default_PFC_20,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,231.36730834850377,1.6056591703973991e-49,2000.0,3.5215906442532326e-49
+186,7Networks_LH_Default_PFC_21,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,263.48246998682515,9.46368510055172e-56,2000.0,2.7193120478800516e-55
+187,7Networks_LH_Default_PFC_22,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,288.9078239109071,1.2842204903893753e-60,2000.0,4.3837300950133564e-60
+188,7Networks_LH_Default_PFC_23,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,207.82734459310123,6.78396103818123e-45,2000.0,1.2270590881809873e-44
+189,7Networks_LH_Default_PFC_24,7networks_lh_default_pfc,7Networks_LH_Default_PFC,default,prefrontal cortex,L,275.0685013061535,5.637406360300841e-58,2000.0,1.7773489497059596e-57
+190,7Networks_LH_Default_pCunPCC_1,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,202.29661029893268,8.430117219168942e-44,2000.0,1.4720281605779614e-43
+191,7Networks_LH_Default_pCunPCC_2,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,135.92023268391281,1.9643547748006937e-30,2000.0,2.562692723446882e-30
+192,7Networks_LH_Default_pCunPCC_3,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,255.2219744279528,3.7119755362541124e-54,2000.0,9.741253719418306e-54
+193,7Networks_LH_Default_pCunPCC_4,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,66.76713248600441,5.362792863883445e-16,2000.0,5.824660191873407e-16
+194,7Networks_LH_Default_pCunPCC_5,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,122.70833128522503,1.0188759059702107e-27,2000.0,1.2535763179145682e-27
+195,7Networks_LH_Default_pCunPCC_6,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,241.5685813166917,1.6474370187352872e-51,2000.0,3.8160020740092877e-51
+196,7Networks_LH_Default_pCunPCC_7,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,243.03014377271884,8.56314581142789e-52,2000.0,1.9936759991734677e-51
+197,7Networks_LH_Default_pCunPCC_8,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,435.5480437083807,1.1840359972462897e-87,2000.0,1.5358638364280444e-86
+198,7Networks_LH_Default_pCunPCC_9,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,385.06283253504046,1.5459918027136466e-78,2000.0,1.2101384110896476e-77
+199,7Networks_LH_Default_pCunPCC_10,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,161.29786572906215,1.3496433309758352e-35,2000.0,1.9894093255293154e-35
+200,7Networks_LH_Default_pCunPCC_11,7networks_lh_default_pcunpcc,7Networks_LH_Default_pCunPCC,default,precuneus posterior cingulate cortex,L,244.61956670513433,4.205483047306621e-52,2000.0,1.0048891070932663e-51
+201,7Networks_RH_Vis_1,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,205.79263604745023,1.7129679740289332e-44,2000.0,3.061761654366676e-44
+202,7Networks_RH_Vis_2,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,101.63723212930506,2.3892917585336224e-23,2000.0,2.802941752905076e-23
+203,7Networks_RH_Vis_3,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,199.25189565269292,3.3846928462403883e-43,2000.0,5.865078443485252e-43
+204,7Networks_RH_Vis_4,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,184.4439306548163,3.0075074575439517e-40,2000.0,4.859104575533644e-40
+205,7Networks_RH_Vis_5,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,261.08707355034994,2.738669785377042e-55,2000.0,7.581439527812055e-55
+206,7Networks_RH_Vis_6,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,307.0955548205276,4.57937083923138e-64,2000.0,1.7769524453085867e-63
+207,7Networks_RH_Vis_7,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,247.3551546388092,1.2383268356078287e-52,2000.0,2.990427571095501e-52
+208,7Networks_RH_Vis_8,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,105.80932106971207,3.2279065235018573e-24,2000.0,3.826291283733272e-24
+209,7Networks_RH_Vis_9,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,202.91195498742618,6.366989257370824e-44,2000.0,1.1160668427978202e-43
+210,7Networks_RH_Vis_10,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,142.82709850254733,7.610109965332092e-32,2000.0,1.0282708107918959e-31
+211,7Networks_RH_Vis_11,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,130.86544047897024,2.1364366186343834e-29,2000.0,2.709335823631313e-29
+212,7Networks_RH_Vis_12,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,162.90690819139,6.384055676421332e-36,2000.0,9.471768879396355e-36
+213,7Networks_RH_Vis_13,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,72.32952324436602,3.5146118268044e-17,2000.0,3.9013050595823897e-17
+214,7Networks_RH_Vis_14,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,147.47260753634657,8.602582101176963e-33,2000.0,1.1871040346304989e-32
+215,7Networks_RH_Vis_15,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,115.08644121981503,3.82883246868609e-26,2000.0,4.623111544636928e-26
+216,7Networks_RH_Vis_16,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,320.74690785115865,1.2336790228086598e-66,2000.0,5.33419310814411e-66
+217,7Networks_RH_Vis_17,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,153.07803438226782,6.24051659839227e-34,2000.0,8.771500110433717e-34
+218,7Networks_RH_Vis_18,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,193.49662647933152,4.710325147321538e-42,2000.0,7.891098217284053e-42
+219,7Networks_RH_Vis_19,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,145.92675836310698,1.7759267139395796e-32,2000.0,2.4212334178035108e-32
+220,7Networks_RH_Vis_20,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,55.740888088374454,1.22818762701499e-13,2000.0,1.311993370976013e-13
+221,7Networks_RH_Vis_21,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,78.2752497074971,1.9302490182851116e-18,2000.0,2.1531524675711075e-18
+222,7Networks_RH_Vis_22,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,191.35093606352532,1.259497428951292e-41,2000.0,2.0945488378896942e-41
+223,7Networks_RH_Vis_23,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,147.38562171809258,8.960577119360099e-33,2000.0,1.232758185511965e-32
+224,7Networks_RH_Vis_24,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,209.2676796570912,3.523399525921908e-45,2000.0,6.424190300275285e-45
+225,7Networks_RH_Vis_25,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,132.64249519594992,9.225656001586416e-30,2000.0,1.1865291288159299e-29
+226,7Networks_RH_Vis_26,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,173.82726832867777,4.030894676507264e-38,2000.0,6.245823150629004e-38
+227,7Networks_RH_Vis_27,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,152.5282285162133,8.069291429701902e-34,2000.0,1.130697008976748e-33
+228,7Networks_RH_Vis_28,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,148.01768268058896,6.663297747229502e-33,2000.0,9.222979198909128e-33
+229,7Networks_RH_Vis_29,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,76.53926697408858,4.498563622033703e-18,2000.0,5.005754618635542e-18
+230,7Networks_RH_Vis_30,7networks_rh_vis,7Networks_RH_Vis,visual,visual,R,151.12701978553574,1.5539335539806182e-33,2000.0,2.157449032132112e-33
+231,7Networks_RH_SomMot_1,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,428.90574104026786,1.826880081366771e-86,2000.0,2.1826409393171424e-85
+232,7Networks_RH_SomMot_2,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,252.46949944084784,1.2645377095438067e-53,2000.0,3.225281573780271e-53
+233,7Networks_RH_SomMot_3,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,284.8691698205162,7.552046142835939e-60,2000.0,2.539725147294457e-59
+234,7Networks_RH_SomMot_4,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,328.8658012511663,3.717989580896673e-68,2000.0,1.7582992392990516e-67
+235,7Networks_RH_SomMot_5,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,308.2370506061729,2.788334625862937e-64,2000.0,1.1007860175145855e-63
+236,7Networks_RH_SomMot_6,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,234.53782321162456,3.859368662042536e-50,2000.0,8.588987120427996e-50
+237,7Networks_RH_SomMot_7,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,246.03501994840846,2.2335261810092657e-52,2000.0,5.365189873958765e-52
+238,7Networks_RH_SomMot_8,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,193.88620918722748,3.9404284098583723e-42,2000.0,6.650388468682903e-42
+239,7Networks_RH_SomMot_9,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,253.62411339305675,7.560460747533334e-54,2000.0,1.9726719421724906e-53
+240,7Networks_RH_SomMot_10,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,225.619481691345,2.1400792523671006e-48,2000.0,4.385165600608958e-48
+241,7Networks_RH_SomMot_11,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,225.61512722003366,2.144288024967376e-48,2000.0,4.385165600608958e-48
+242,7Networks_RH_SomMot_12,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,180.8762949454399,1.5552429276204406e-39,2000.0,2.4774746987357195e-39
+243,7Networks_RH_SomMot_13,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,165.3005159251893,2.098595481322694e-36,2000.0,3.15484221364405e-36
+244,7Networks_RH_SomMot_14,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,141.5652552354346,1.3770420477388794e-31,2000.0,1.8333638993356342e-31
+245,7Networks_RH_SomMot_15,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,70.6510319121947,7.989927661804189e-17,2000.0,8.804434850628888e-17
+246,7Networks_RH_SomMot_16,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,196.88237393705575,9.99868807565881e-43,2000.0,1.7065430023868795e-42
+247,7Networks_RH_SomMot_17,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,145.94016111829754,1.7647965126895754e-32,2000.0,2.4133060745815277e-32
+248,7Networks_RH_SomMot_18,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,331.4132322382375,1.2422859373067056e-68,2000.0,6.1304110384483085e-68
+249,7Networks_RH_SomMot_19,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,142.72003925053065,8.002697804958159e-32,2000.0,1.078108250282197e-31
+250,7Networks_RH_SomMot_20,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,250.29345271479588,3.3362226673939726e-53,2000.0,8.414694949982575e-53
+251,7Networks_RH_SomMot_21,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,212.38156030961161,8.560844210658553e-46,2000.0,1.6127067517174204e-45
+252,7Networks_RH_SomMot_22,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,378.49453660690347,2.452482510421326e-77,2000.0,1.7673445392560032e-76
+253,7Networks_RH_SomMot_23,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,98.17141719738355,1.2647923360204529e-22,2000.0,1.4611087036979278e-22
+254,7Networks_RH_SomMot_24,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,370.9486108056836,5.927146269709717e-76,2000.0,4.016305084251062e-75
+255,7Networks_RH_SomMot_25,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,398.64213331033267,5.22552630116282e-81,2000.0,5.047636044101957e-80
+256,7Networks_RH_SomMot_26,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,341.63081168371076,1.548812319755647e-70,2000.0,8.176288292663531e-70
+257,7Networks_RH_SomMot_27,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,171.84129679236494,1.0105361792029426e-37,2000.0,1.549944004588297e-37
+258,7Networks_RH_SomMot_28,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,166.56783961573132,1.1650460927148977e-36,2000.0,1.7631030869752118e-36
+259,7Networks_RH_SomMot_29,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,366.23794883739026,4.3514095042863725e-75,2000.0,2.7824505844310046e-74
+260,7Networks_RH_SomMot_30,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,179.40505884142533,3.065028687780857e-39,2000.0,4.831677167543434e-39
+261,7Networks_RH_SomMot_31,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,228.64835299143277,5.461865601325438e-49,2000.0,1.180803325238928e-48
+262,7Networks_RH_SomMot_32,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,140.1151413470426,2.723571589483308e-31,2000.0,3.594481109376226e-31
+263,7Networks_RH_SomMot_33,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,372.68024796066527,2.851176876761795e-76,2000.0,1.9612640940149318e-75
+264,7Networks_RH_SomMot_34,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,269.61650534333927,6.260652053427482e-57,2000.0,1.8948906881707179e-56
+265,7Networks_RH_SomMot_35,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,117.794657176653,1.0536863675709444e-26,2000.0,1.2790738258748897e-26
+266,7Networks_RH_SomMot_36,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,126.93466202590322,1.3727499936471496e-28,2000.0,1.7121662008675987e-28
+267,7Networks_RH_SomMot_37,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,39.560480425241785,3.897096076497441e-10,2000.0,4.095559302615366e-10
+268,7Networks_RH_SomMot_38,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,243.77348397215886,6.140129415109985e-52,2000.0,1.4518847679478817e-51
+269,7Networks_RH_SomMot_39,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,224.8199652058538,3.069907299959284e-48,2000.0,6.249945803504552e-48
+270,7Networks_RH_SomMot_40,7networks_rh_sommot,7Networks_RH_SomMot,somatomotor,somatomotor,R,97.9079173216567,1.4358318928341674e-22,2000.0,1.6544864958038377e-22
+271,7Networks_RH_DorsAttn_Post_1,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,279.3903676695316,8.396548954385902e-59,2000.0,2.762342916877681e-58
+272,7Networks_RH_DorsAttn_Post_2,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,224.6044431063163,3.3835687965617316e-48,2000.0,6.857768900174224e-48
+273,7Networks_RH_DorsAttn_Post_3,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,261.8488605056847,1.9531006346642914e-55,2000.0,5.473504247762891e-55
+274,7Networks_RH_DorsAttn_Post_4,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,173.35378718022125,5.017975423558923e-38,2000.0,7.722579126426274e-38
+275,7Networks_RH_DorsAttn_Post_5,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,67.13568472511818,4.475431856702764e-16,2000.0,4.884245343613112e-16
+276,7Networks_RH_DorsAttn_Post_6,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,329.2906878020753,3.0964536576710994e-68,2000.0,1.4797789058765045e-67
+277,7Networks_RH_DorsAttn_Post_7,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,25.410588576082183,5.051954999857938e-07,2000.0,5.260521949393358e-07
+278,7Networks_RH_DorsAttn_Post_8,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,360.1829372219884,5.6764820240908616e-74,2000.0,3.530305258818152e-73
+279,7Networks_RH_DorsAttn_Post_9,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,227.3578530072715,9.77086986723616e-49,2000.0,2.053692092465378e-48
+280,7Networks_RH_DorsAttn_Post_10,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,97.46168075198277,1.779950730795281e-22,2000.0,2.0458167893191331e-22
+281,7Networks_RH_DorsAttn_Post_11,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,154.32296119276964,3.4882336451924182e-34,2000.0,4.918192779246453e-34
+282,7Networks_RH_DorsAttn_Post_12,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,105.09906743571644,4.537051892467374e-24,2000.0,5.364118643698406e-24
+283,7Networks_RH_DorsAttn_Post_13,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,229.6207286732792,3.524655885965774e-49,2000.0,7.69323928955991e-49
+284,7Networks_RH_DorsAttn_Post_14,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,187.11410094826883,8.809185193279485e-41,2000.0,1.4543163919086858e-40
+285,7Networks_RH_DorsAttn_Post_15,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,203.13542255349114,5.750083878559481e-44,2000.0,1.0157735723214025e-43
+286,7Networks_RH_DorsAttn_Post_16,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,121.42184268039263,1.877154230764699e-27,2000.0,2.3033189750464143e-27
+287,7Networks_RH_DorsAttn_Post_17,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,127.27102136430916,1.1705582273915255e-28,2000.0,1.4640039538175002e-28
+288,7Networks_RH_DorsAttn_Post_18,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,67.53977356481874,3.670517774831791e-16,2000.0,4.0154579994545377e-16
+289,7Networks_RH_DorsAttn_Post_19,7networks_rh_dorsattn_post,7Networks_RH_DorsAttn_Post,dorsal attention,posterior,R,100.20298789255317,4.7599416494058727e-23,2000.0,5.569622445438831e-23
+290,7Networks_RH_DorsAttn_FEF_1,7networks_rh_dorsattn_fef,7Networks_RH_DorsAttn_FEF,dorsal attention,frontal eye fields,R,176.43996772990255,1.2047111733499643e-38,2000.0,1.8925220508681104e-38
+291,7Networks_RH_DorsAttn_FEF_2,7networks_rh_dorsattn_fef,7Networks_RH_DorsAttn_FEF,dorsal attention,frontal eye fields,R,262.1534925766636,1.706195744332082e-55,2000.0,4.811260049234566e-55
+292,7Networks_RH_DorsAttn_FEF_3,7networks_rh_dorsattn_fef,7Networks_RH_DorsAttn_FEF,dorsal attention,frontal eye fields,R,65.48211180849528,1.007970608035867e-15,2000.0,1.0895682286863896e-15
+293,7Networks_RH_DorsAttn_PrCv_1,7networks_rh_dorsattn_prcv,7Networks_RH_DorsAttn_PrCv,dorsal attention,precentral ventral,R,307.67773433040753,3.555526666106685e-64,2000.0,1.3915595744934783e-63
+294,7Networks_RH_SalVentAttn_TempOccPar_1,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,267.02132937015705,1.973389143150968e-56,2000.0,5.855677588173461e-56
+295,7Networks_RH_SalVentAttn_TempOccPar_2,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,224.0202994543024,4.4046234146765577e-48,2000.0,8.887551245614031e-48
+296,7Networks_RH_SalVentAttn_TempOccPar_3,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,68.48650878617897,2.307174614476953e-16,2000.0,2.5300900361655474e-16
+297,7Networks_RH_SalVentAttn_TempOccPar_4,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,260.94892644243384,2.911853288401102e-55,2000.0,8.01200844202485e-55
+298,7Networks_RH_SalVentAttn_TempOccPar_5,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,297.6918708453627,2.75394137688903e-62,2000.0,1.0164954350468453e-61
+299,7Networks_RH_SalVentAttn_TempOccPar_6,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,268.38247806285347,1.0805160374639466e-56,2000.0,3.2487038477392834e-56
+300,7Networks_RH_SalVentAttn_TempOccPar_7,7networks_rh_salventattn_tempoccpar,7Networks_RH_SalVentAttn_TempOccPar,salience / ventral attention,temporal occipital parietal,R,195.85593815357643,1.599148974920578e-42,2000.0,2.7191521895653275e-42
+301,7Networks_RH_SalVentAttn_PrC_1,7networks_rh_salventattn_prc,7Networks_RH_SalVentAttn_PrC,salience / ventral attention,precentral,R,185.42074949688003,1.9188530792792492e-40,2000.0,3.1224347598307495e-40
+302,7Networks_RH_SalVentAttn_FrOperIns_1,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,357.804399265985,1.5597318099247675e-73,2000.0,9.569165428457357e-73
+303,7Networks_RH_SalVentAttn_FrOperIns_2,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,337.27076566430986,1.0035248088271435e-69,2000.0,5.177275718267308e-69
+304,7Networks_RH_SalVentAttn_FrOperIns_3,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,410.7661281757387,3.340934986863413e-83,2000.0,3.3706321867466436e-82
+305,7Networks_RH_SalVentAttn_FrOperIns_4,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,493.9221933643509,5.874977893563904e-98,2000.0,1.6670249772987578e-96
+306,7Networks_RH_SalVentAttn_FrOperIns_5,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,482.4366425150732,5.984524889761395e-96,2000.0,1.3584871499758366e-94
+307,7Networks_RH_SalVentAttn_FrOperIns_6,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,351.04007816408125,2.779145143200622e-72,2000.0,1.5771648687663528e-71
+308,7Networks_RH_SalVentAttn_FrOperIns_7,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,483.5426462224145,3.8305218793693195e-96,2000.0,9.152931227545637e-95
+309,7Networks_RH_SalVentAttn_FrOperIns_8,7networks_rh_salventattn_froperins,7Networks_RH_SalVentAttn_FrOperIns,salience / ventral attention,frontal operculum insula,R,293.59453162344533,1.6500578672291827e-61,2000.0,5.807180400946116e-61
+310,7Networks_RH_SalVentAttn_PFCl_1,7networks_rh_salventattn_pfcl,7Networks_RH_SalVentAttn_PFCl,salience / ventral attention,lateral prefrontal cortex,R,420.17794167609634,6.732638356245557e-85,2000.0,7.277661461274959e-84
+311,7Networks_RH_SalVentAttn_Med_1,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,546.316801158052,5.320041947168819e-107,2000.0,3.0191238050183044e-105
+312,7Networks_RH_SalVentAttn_Med_2,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,538.8535279733987,1.0057665031652474e-105,2000.0,5.0735332493002476e-104
+313,7Networks_RH_SalVentAttn_Med_3,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,259.90301329723303,4.632748710790017e-55,2000.0,1.2519451873206356e-54
+314,7Networks_RH_SalVentAttn_Med_4,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,274.1548045666015,8.435685443572632e-58,2000.0,2.641242200953086e-57
+315,7Networks_RH_SalVentAttn_Med_5,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,174.8832805396151,2.4735348606081316e-38,2000.0,3.8590543873405213e-38
+316,7Networks_RH_SalVentAttn_Med_6,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,227.01397397521595,1.1409514309524538e-48,2000.0,2.37610986079089e-48
+317,7Networks_RH_SalVentAttn_Med_7,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,216.27233680091692,1.4656998429675335e-46,2000.0,2.8316073562011074e-46
+318,7Networks_RH_SalVentAttn_Med_8,7networks_rh_salventattn_med,7Networks_RH_SalVentAttn_Med,salience / ventral attention,medial,R,90.42298717209597,5.313202856922194e-21,2000.0,6.015446626041586e-21
+319,7Networks_RH_Limbic_OFC_1,7networks_rh_limbic_ofc,7Networks_RH_Limbic_OFC,limbic,orbital frontal cortex,R,160.85261453241213,1.6604756866826525e-35,2000.0,2.439663306647004e-35
+320,7Networks_RH_Limbic_OFC_2,7networks_rh_limbic_ofc,7Networks_RH_Limbic_OFC,limbic,orbital frontal cortex,R,423.2137525250902,1.9171899696222657e-85,2000.0,2.1229371858744114e-84
+321,7Networks_RH_Limbic_OFC_3,7networks_rh_limbic_ofc,7Networks_RH_Limbic_OFC,limbic,orbital frontal cortex,R,226.24490617799677,1.6139695103100263e-48,2000.0,3.330646171276145e-48
+322,7Networks_RH_Limbic_OFC_4,7networks_rh_limbic_ofc,7Networks_RH_Limbic_OFC,limbic,orbital frontal cortex,R,154.76214479792105,2.8413605863471438e-34,2000.0,4.03118033188001e-34
+323,7Networks_RH_Limbic_OFC_5,7networks_rh_limbic_ofc,7Networks_RH_Limbic_OFC,limbic,orbital frontal cortex,R,263.5411225611718,9.220766900057748e-56,2000.0,2.6663873710995015e-55
+324,7Networks_RH_Limbic_OFC_6,7networks_rh_limbic_ofc,7Networks_RH_Limbic_OFC,limbic,orbital frontal cortex,R,236.17589193759088,1.8492395924846667e-50,2000.0,4.2188682160202947e-50
+325,7Networks_RH_Limbic_TempPole_1,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,4.455187339280188,0.03491947839556653,2000.0,0.03507398936191859
+326,7Networks_RH_Limbic_TempPole_2,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,93.9560737556571,9.643670854150405e-22,2000.0,1.094556641946071e-21
+327,7Networks_RH_Limbic_TempPole_3,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,95.75673182803165,4.046883928379992e-22,2000.0,4.616294732373156e-22
+328,7Networks_RH_Limbic_TempPole_4,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,121.39379311766663,1.9023398323207175e-27,2000.0,2.327930684295433e-27
+329,7Networks_RH_Limbic_TempPole_5,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,146.15460594012148,1.5959180446356493e-32,2000.0,2.1889631186241232e-32
+330,7Networks_RH_Limbic_TempPole_6,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,134.91799519661436,3.1514317254860726e-30,2000.0,4.099570210231166e-30
+331,7Networks_RH_Limbic_TempPole_7,7networks_rh_limbic_temppole,7Networks_RH_Limbic_TempPole,limbic,temporal pole,R,11.317897181269268,0.0007821564465680796,2000.0,0.0007961154448424968
+332,7Networks_RH_Cont_Par_1,7networks_rh_cont_par,7Networks_RH_Cont_Par,control,parietal,R,235.99839728052046,2.0026436020905556e-50,2000.0,4.523384056463245e-50
+333,7Networks_RH_Cont_Par_2,7networks_rh_cont_par,7Networks_RH_Cont_Par,control,parietal,R,277.14765204879717,2.2544312628158276e-58,2000.0,7.310798523702755e-58
+334,7Networks_RH_Cont_Par_3,7networks_rh_cont_par,7Networks_RH_Cont_Par,control,parietal,R,213.50045746009604,5.151721554224778e-46,2000.0,9.745339940075205e-46
+335,7Networks_RH_Cont_Par_4,7networks_rh_cont_par,7Networks_RH_Cont_Par,control,parietal,R,193.63596380095194,4.419041345619432e-42,2000.0,7.430536188560082e-42
+336,7Networks_RH_Cont_Par_5,7networks_rh_cont_par,7Networks_RH_Cont_Par,control,parietal,R,206.52640888706034,1.2264106349710613e-44,2000.0,2.2007526809362127e-44
+337,7Networks_RH_Cont_Par_6,7networks_rh_cont_par,7Networks_RH_Cont_Par,control,parietal,R,192.7552801007491,6.615793720074137e-42,2000.0,1.1042538047476686e-41
+338,7Networks_RH_Cont_Temp_1,7networks_rh_cont_temp,7Networks_RH_Cont_Temp,control,temporal,R,311.4127201697592,7.022659989628994e-65,2000.0,2.8466853886531814e-64
+339,7Networks_RH_Cont_Temp_2,7networks_rh_cont_temp,7Networks_RH_Cont_Temp,control,temporal,R,256.4485476142506,2.1508170331388652e-54,2000.0,5.67715658747119e-54
+340,7Networks_RH_Cont_PFCv_1,7networks_rh_cont_pfcv,7Networks_RH_Cont_PFCv,control,ventral prefrontal cortex,R,270.43328428504987,4.3633421887951536e-57,2000.0,1.3384846984547297e-56
+341,7Networks_RH_Cont_PFCl_1,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,276.1012493085816,3.575348444417849e-58,2000.0,1.1431043618068335e-57
+342,7Networks_RH_Cont_PFCl_2,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,386.02044201918,1.0339008340331086e-78,2000.0,8.381981761625559e-78
+343,7Networks_RH_Cont_PFCl_3,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,457.6869953196038,1.368298756057075e-91,2000.0,2.300769019444119e-90
+344,7Networks_RH_Cont_PFCl_4,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,268.1949112288195,1.1739987199733112e-56,2000.0,3.5065488083413375e-56
+345,7Networks_RH_Cont_PFCl_5,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,321.7032595650834,8.161467246135672e-67,2000.0,3.5627943555246103e-66
+346,7Networks_RH_Cont_PFCl_6,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,253.01295832108744,9.925990334690061e-54,2000.0,2.5750854925424504e-53
+347,7Networks_RH_Cont_PFCl_7,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,199.3710172933866,3.2054133961410872e-43,2000.0,5.575699930452312e-43
+348,7Networks_RH_Cont_PFCl_8,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,331.93003782836354,9.94720916555364e-69,2000.0,4.962673583693794e-68
+349,7Networks_RH_Cont_PFCl_9,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,215.1474963007442,2.4405640580867263e-46,2000.0,4.655529757862915e-46
+350,7Networks_RH_Cont_PFCl_10,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,367.78566362838177,2.259321483520441e-75,2000.0,1.4865680485772179e-74
+351,7Networks_RH_Cont_PFCl_11,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,211.04097495626073,1.573749694852435e-45,2000.0,2.9402566315350016e-45
+352,7Networks_RH_Cont_PFCl_12,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,247.8277650907126,1.002695456568658e-52,2000.0,2.4343515362682928e-52
+353,7Networks_RH_Cont_PFCl_13,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,210.7598457204286,1.7881640742243473e-45,2000.0,3.327157744663335e-45
+354,7Networks_RH_Cont_PFCl_14,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,314.5228676883145,1.8231861734512651e-65,2000.0,7.593821309604352e-65
+355,7Networks_RH_Cont_PFCl_15,7networks_rh_cont_pfcl,7Networks_RH_Cont_PFCl,control,lateral prefrontal cortex,R,266.7144007109704,2.260579513297553e-56,2000.0,6.6643058379031755e-56
+356,7Networks_RH_Cont_pCun_1,7networks_rh_cont_pcun,7Networks_RH_Cont_pCun,control,precuneus,R,264.37080727647873,6.383341946585754e-56,2000.0,1.8697014475806015e-55
+357,7Networks_RH_Cont_pCun_2,7networks_rh_cont_pcun,7Networks_RH_Cont_pCun,control,precuneus,R,113.111987480212,9.820225066674923e-26,2000.0,1.1763541372745157e-25
+358,7Networks_RH_Cont_Cing_1,7networks_rh_cont_cing,7Networks_RH_Cont_Cing,control,cingulate,R,82.181597303996,2.885493528161651e-19,2000.0,3.226635620161058e-19
+359,7Networks_RH_Cont_Cing_2,7networks_rh_cont_cing,7Networks_RH_Cont_Cing,control,cingulate,R,219.92294211591874,2.806518180086234e-47,2000.0,5.588417779645395e-47
+360,7Networks_RH_Cont_PFCmp_1,7networks_rh_cont_pfcmp,7Networks_RH_Cont_PFCmp,control,medial posterior prefrontal cortex,R,635.276541213692,6.219879383234717e-122,2000.0,9.412750799961872e-120
+361,7Networks_RH_Cont_PFCmp_2,7networks_rh_cont_pfcmp,7Networks_RH_Cont_PFCmp,control,medial posterior prefrontal cortex,R,313.68239993870367,2.62433691469326e-65,2000.0,1.0831354175188545e-64
+362,7Networks_RH_Default_Par_1,7networks_rh_default_par,7Networks_RH_Default_Par,default,parietal,R,183.58418756744476,4.467424715706623e-40,2000.0,7.192236953655343e-40
+363,7Networks_RH_Default_Par_2,7networks_rh_default_par,7Networks_RH_Default_Par,default,parietal,R,231.82138476362795,1.3089565831030869e-49,2000.0,2.884787809363114e-49
+364,7Networks_RH_Default_Par_3,7networks_rh_default_par,7Networks_RH_Default_Par,default,parietal,R,363.49936221516305,1.3892146039491103e-74,2000.0,8.759769863790223e-74
+365,7Networks_RH_Default_Par_4,7networks_rh_default_par,7Networks_RH_Default_Par,default,parietal,R,166.9869484573422,9.590812696947755e-37,2000.0,1.4562638676970838e-36
+366,7Networks_RH_Default_Par_5,7networks_rh_default_par,7Networks_RH_Default_Par,default,parietal,R,240.28467657556183,2.928200288198861e-51,2000.0,6.748238227625802e-51
+367,7Networks_RH_Default_Temp_1,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,227.67774871811127,8.458729682374183e-49,2000.0,1.7945155494382613e-48
+368,7Networks_RH_Default_Temp_2,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,300.846981045498,6.953210072365695e-63,2000.0,2.6088903907884507e-62
+369,7Networks_RH_Default_Temp_3,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,269.9412004153278,5.423499341723618e-57,2000.0,1.6525293296258542e-56
+370,7Networks_RH_Default_Temp_4,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,369.6299414113815,1.0352146832408653e-75,2000.0,6.911580385166953e-75
+371,7Networks_RH_Default_Temp_5,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,562.2953983894362,1.0126465180576333e-109,2000.0,9.194830383963311e-108
+372,7Networks_RH_Default_Temp_6,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,174.40088810804798,3.091613997005336e-38,2000.0,4.806824502193228e-38
+373,7Networks_RH_Default_Temp_7,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,467.76142961616563,2.272118867810446e-93,2000.0,4.484965069504098e-92
+374,7Networks_RH_Default_Temp_8,7networks_rh_default_temp,7Networks_RH_Default_Temp,default,temporal,R,306.86715098293007,5.0574417137947006e-64,2000.0,1.9458292695447407e-63
+375,7Networks_RH_Default_PFCv_1,7networks_rh_default_pfcv,7Networks_RH_Default_PFCv,default,ventral prefrontal cortex,R,463.351172227189,1.3634518583234153e-92,2000.0,2.4760285747153224e-91
+376,7Networks_RH_Default_PFCv_2,7networks_rh_default_pfcv,7Networks_RH_Default_PFCv,default,ventral prefrontal cortex,R,552.7601445832521,4.234738297247008e-108,2000.0,3.2042853115835693e-106
+377,7Networks_RH_Default_PFCv_3,7networks_rh_default_pfcv,7Networks_RH_Default_PFCv,default,ventral prefrontal cortex,R,323.4400809551387,3.855612308079706e-67,2000.0,1.733116819671472e-66
+378,7Networks_RH_Default_PFCv_4,7networks_rh_default_pfcv,7Networks_RH_Default_PFCv,default,ventral prefrontal cortex,R,374.28325069554717,1.4488469415431127e-76,2000.0,1.0277757991571455e-75
+379,7Networks_RH_Default_PFCdPFCm_1,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,490.9033993810654,1.9764016858348085e-97,2000.0,5.2781550904059e-96
+380,7Networks_RH_Default_PFCdPFCm_2,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,317.75082141903,4.5063882338980624e-66,2000.0,1.912056316065159e-65
+381,7Networks_RH_Default_PFCdPFCm_3,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,353.17628143980363,1.1181171672430921e-72,2000.0,6.508015306773895e-72
+382,7Networks_RH_Default_PFCdPFCm_4,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,509.87037655963695,9.913773652440411e-101,2000.0,3.214895170148533e-99
+383,7Networks_RH_Default_PFCdPFCm_5,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,328.55894301095566,4.2431903303721066e-68,2000.0,1.985988051534986e-67
+384,7Networks_RH_Default_PFCdPFCm_6,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,156.529654442939,1.2451557336558056e-34,2000.0,1.7721025174913347e-34
+385,7Networks_RH_Default_PFCdPFCm_7,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,270.45636285663375,4.319063947537357e-57,2000.0,1.3339149878788843e-56
+386,7Networks_RH_Default_PFCdPFCm_8,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,343.67799659717303,6.448986891744762e-71,2000.0,3.4445177045319085e-70
+387,7Networks_RH_Default_PFCdPFCm_9,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,296.0861144871992,5.552725561349317e-62,2000.0,1.9849900825610944e-61
+388,7Networks_RH_Default_PFCdPFCm_10,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,290.32045386167374,6.915789687474322e-61,2000.0,2.396769861155223e-60
+389,7Networks_RH_Default_PFCdPFCm_11,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,184.90860201145176,2.4285968261036098e-40,2000.0,3.937796282325139e-40
+390,7Networks_RH_Default_PFCdPFCm_12,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,317.5426525108733,4.931144327396552e-66,2000.0,2.072906967257439e-65
+391,7Networks_RH_Default_PFCdPFCm_13,7networks_rh_default_pfcdpfcm,7Networks_RH_Default_PFCdPFCm,default,dorsal prefrontal cortex medial prefrontal cortex,R,159.75544256244822,2.767746624428546e-35,2000.0,4.001773781817069e-35
+392,7Networks_RH_Default_pCunPCC_1,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,216.36371792031485,1.4062424115980065e-46,2000.0,2.7283506618183544e-46
+393,7Networks_RH_Default_pCunPCC_2,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,87.56783439489293,2.115451339252475e-20,2000.0,2.383163543475493e-20
+394,7Networks_RH_Default_pCunPCC_3,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,141.51617511708358,1.4091862170249019e-31,2000.0,1.8706741009628815e-31
+395,7Networks_RH_Default_pCunPCC_4,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,261.1416151666416,2.6731692813342113e-55,2000.0,7.445514440035165e-55
+396,7Networks_RH_Default_pCunPCC_5,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,185.83933325100554,1.5828456036039973e-40,2000.0,2.5942668015747827e-40
+397,7Networks_RH_Default_pCunPCC_6,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,297.24294658818195,3.350245973024041e-62,2000.0,1.2266223159297698e-61
+398,7Networks_RH_Default_pCunPCC_7,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,436.96431716889913,6.613188570995797e-88,2000.0,8.830551797741446e-87
+399,7Networks_RH_Default_pCunPCC_8,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,210.7496004866645,1.7965076409323327e-45,2000.0,3.329038648911343e-45
+400,7Networks_RH_Default_pCunPCC_9,7networks_rh_default_pcunpcc,7Networks_RH_Default_pCunPCC,default,precuneus posterior cingulate cortex,R,207.96961558628882,6.358734296643205e-45,2000.0,1.154746148270406e-44
+401,HIP-head-m1-rh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,R,70.30738594684122,9.453968630338781e-17,2000.0,1.039249820381067e-16
+402,HIP-head-m2-rh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,R,64.32111120193133,1.78347706678071e-15,2000.0,1.918717033929958e-15
+403,THA-VAip-rh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,R,13.402589632928866,0.0002578102988324385,2000.0,0.00026361683709443033
+404,THA-VAia-rh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,R,203.07519498149125,5.910202671562542e-44,2000.0,1.0400124080966645e-43
+405,HIP-head-l-rh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,R,118.03104978794279,9.41539738934211e-27,2000.0,1.1490834448283113e-26
+406,HIP-body-rh,HIP-body,Hippocampus body,subcortex,Hippocampus body,R,131.05597887396507,1.952409067251684e-29,2000.0,2.48986999025917e-29
+407,HIP-tail-rh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,R,89.14482257840237,9.85943537420944e-21,2000.0,1.1134785223609666e-20
+408,THA-VPm-rh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,R,83.09282871701973,1.85340604651086e-19,2000.0,2.077645296582544e-19
+409,THA-VPl-rh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,R,9.915924140948471,0.00166278891968696,2000.0,0.0016850584141470532
+410,THA-VAs-rh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,R,6.105809914717672,0.01355677331314636,2000.0,0.013677277964818772
+411,THA-DAm-rh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,R,131.4210074231625,1.6430024751629018e-29,2000.0,2.1011918978139646e-29
+412,THA-DAl-rh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,R,0.0015632778725715051,0.9684651653946533,2000.0,0.9684651653946533
+413,PUT-VA-rh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,R,450.8616354337219,2.218985567542892e-90,2000.0,3.358064825548243e-89
+414,PUT-DA-rh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,R,459.0202432768804,7.94740644265854e-92,2000.0,1.3877394326796067e-90
+415,PUT-VP-rh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,R,248.8878333330091,6.2464577191242505e-53,2000.0,1.5667910522002265e-52
+416,PUT-DP-rh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,R,303.78333385213915,1.9347175592891354e-63,2000.0,7.381191360649307e-63
+417,CAU-VA-rh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,R,20.313933934281923,6.952718372782482e-06,2000.0,7.125359235312069e-06
+418,CAU-DA-rh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,R,204.13828596002435,3.640034579270013e-44,2000.0,6.480689015641513e-44
+419,CAU-body-rh,CAU-body,Caudate body,subcortex,Caudate body,R,38.73346982883756,5.904189436303596e-10,2000.0,6.190535806193609e-10
+420,CAU-tail-rh,CAU-tail,Caudate tail,subcortex,Caudate tail,R,4.700459081647511,0.03027238064520563,2000.0,0.030473749030872188
+421,lAMY-rh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,R,180.03758389118983,2.289476817787849e-39,2000.0,3.6216810985215446e-39
+422,mAMY-rh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,R,197.0122549733061,9.42201323514432e-43,2000.0,1.6141864183983102e-42
+423,THA-DP-rh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,R,475.618707409718,9.407285999249697e-95,2000.0,2.0337656398377918e-93
+424,NAc-shell-rh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,R,393.3566781568948,4.767045042798455e-80,2000.0,4.161997018135574e-79
+425,NAc-core-rh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,R,330.5682738673525,1.7867999209976437e-68,2000.0,8.722657678848712e-68
+426,pGP-rh,pGP,"Pallidum, posterior part",subcortex,Pallidum,R,20.91720407339668,5.089904742338419e-06,2000.0,5.239947285763361e-06
+427,aGP-rh,aGP,"Pallidum, anterior part",subcortex,Pallidum,R,20.526756283122577,6.228013931776638e-06,2000.0,6.397100282865597e-06
+428,HIP-head-m1-lh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,L,84.88090194711354,7.781096470621463e-20,2000.0,8.744103459559763e-20
+429,HIP-head-m2-lh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,L,37.100243778471466,1.3425838492046227e-09,2000.0,1.4044540726702736e-09
+430,THA-VAip-lh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,L,43.21635724810417,6.237817644100837e-11,2000.0,6.585974907957628e-11
+431,THA-VAia-lh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,L,312.68842344211566,4.038097713481483e-65,2000.0,1.6516183440726066e-64
+432,HIP-head-l-lh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,L,126.60258893020246,1.6066460083901503e-28,2000.0,1.9984035282441868e-28
+433,HIP-body-lh,HIP-body,Hippocampus body,subcortex,Hippocampus body,L,95.92785642986514,3.7265056745374105e-22,2000.0,4.2615455320906405e-22
+434,HIP-tail-lh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,L,70.74656544854837,7.624862703760434e-17,2000.0,8.422597731161161e-17
+435,THA-VPm-lh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,L,72.06956219938468,3.991083833324889e-17,2000.0,4.4193952690963405e-17
+436,THA-VPl-lh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,L,22.828570989039793,1.9002625304707911e-06,2000.0,1.974185786804895e-06
+437,THA-VAs-lh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,L,45.29756929673972,2.204605699380021e-11,2000.0,2.3385303446694616e-11
+438,THA-DAm-lh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,L,94.9642686112304,5.929823890095983e-22,2000.0,6.747218160660592e-22
+439,THA-DAl-lh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,L,0.007021426026224259,0.9332286611480194,2000.0,0.9352887685677722
+440,PUT-VA-lh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,L,382.0359364538852,5.520438253764043e-78,2000.0,4.108654044604714e-77
+441,PUT-DA-lh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,L,456.65526123736726,2.0838389944357566e-91,2000.0,3.3787960838351194e-90
+442,PUT-VP-lh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,L,310.6170877658814,9.918742580006661e-65,2000.0,3.9850523286044466e-64
+443,PUT-DP-lh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,L,289.77742507501506,8.773039999048137e-61,2000.0,3.0173940602786773e-60
+444,CAU-VA-lh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,L,98.87186469945198,9.028842068247293e-23,2000.0,1.0483617132952099e-22
+445,CAU-DA-lh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,L,227.47909421403372,9.251154575274683e-49,2000.0,1.953499617290561e-48
+446,CAU-body-lh,CAU-body,Caudate body,subcortex,Caudate body,L,65.59543129266167,9.53389316257672e-16,2000.0,1.033028041959387e-15
+447,CAU-tail-lh,CAU-tail,Caudate tail,subcortex,Caudate tail,L,22.297903858086528,2.497083206221784e-06,2000.0,2.5883008575906165e-06
+448,lAMY-lh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,L,219.01968570875755,4.223519611492989e-47,2000.0,8.300770145531676e-47
+449,mAMY-lh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,L,194.9597433044203,2.410123458071076e-42,2000.0,4.0828210819562254e-42
+450,THA-DP-lh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,L,366.37451272613,4.1068215130504334e-75,2000.0,2.6635670956069953e-74
+451,NAc-shell-lh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,L,384.8270583231222,1.7070184246080126e-78,2000.0,1.31353621147803e-77
+452,NAc-core-lh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,L,290.54862420477883,6.258079879809889e-61,2000.0,2.1855140503336072e-60
+453,pGP-lh,pGP,"Pallidum, posterior part",subcortex,Pallidum,L,11.525617955080591,0.0006998700413884855,2000.0,0.0007140247163828595
+454,aGP-lh,aGP,"Pallidum, anterior part",subcortex,Pallidum,L,11.313880600057129,0.0007838405371026346,2000.0,0.0007961154448424968
