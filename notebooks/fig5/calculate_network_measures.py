@@ -123,13 +123,13 @@ def modularity(mat):
 NETWORK_MEASURES = [
     {"func": degree, "outputs": ["degree"]},
     {"func": bct.strengths_und, "outputs": ["strength"]},
-    {"func": bct.clustering_coef_wu, "outputs": ["clustering"]},
+    # {"func": bct.clustering_coef_wu, "outputs": ["clustering"]},
     {"func": bct.betweenness_wei, "outputs": ["betweenness"]},
     {"func": bct.efficiency_wei, "outputs": ["global_efficiency"]},
-    {"func": bct.assortativity_wei, "outputs": ["assortativity"]},
+    # {"func": bct.assortativity_wei, "outputs": ["assortativity"]},
     # {"func": modularity, "outputs": ["modularity"]},
     # {"func": local_efficiency, "outputs": ["local_efficiency"]},
-    {"func": small_worldness_metrics, "outputs": ["gamma", "lambda", "sigma"]},
+    # {"func": small_worldness_metrics, "outputs": ["gamma", "lambda", "sigma"]},
 ]
 
 
@@ -204,7 +204,7 @@ def estimate_scn(
     for group_name, group_df in ages.groupby("age_group_label"):
         # Create a new column for each age group
         region_matrix = wide_df.loc[group_df["subject_code"]]
-        corr_matrix = region_matrix.corr(method="pearson")
+        corr_matrix = region_matrix.corr(method="spearman")
         scns[group_name] = {"corr_matrix": corr_matrix, "metadata": group_df}
     # Step 3: Return the dictionary of SCNs
     return scns
