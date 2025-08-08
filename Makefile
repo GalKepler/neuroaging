@@ -60,7 +60,7 @@ create_environment:
 ## Make dataset
 .PHONY: data
 data: requirements
-	$(PYTHON_INTERPRETER) neuroaging/dataset.py
+	$(PYTHON_INTERPRETER) -m neuroaging.cli dataset
 
 
 #################################################################################
