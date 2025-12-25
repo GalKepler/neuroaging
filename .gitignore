@@ -187,3 +187,4 @@ cython_debug/
 
 # heavy pkl files
 *.pkl
+*.csv
