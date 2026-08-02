@@ -12,6 +12,7 @@ from .config import (
     COL_WEIGHTED,
     CMAP_RAW,
     CMAP_WEIGHTED,
+    COL_WHITE,
     configure_plotting,
     savefig_nice,
 )
@@ -24,6 +25,7 @@ __all__ = [
     "COL_WEIGHTED",
     "COL_REF",
     "COL_CENSUS",
+    "COL_WHITE",
     "CMAP_RAW",
     "CMAP_WEIGHTED",
     "get_dist",
