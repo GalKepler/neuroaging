@@ -7,12 +7,20 @@ from matplotlib import font_manager
 from pathlib import Path
 
 # Color palette for figures
-COL_WEIGHTED = "#66c2a5"  # green - Set2[0]
-COL_RAW = "#fc8d62"  # orange - Set2[1]
-COL_REF = "#8da0cb"  # blue - Set2[2]
+COL_WEIGHTED = "#7F0099CE"  # green - Set2[0]
+COL_RAW = "#ffb300"  # orange - Set2[1]
+COL_REF = "0.25"  # neutral gray
 
-CMAP_WEIGHTED = "Greens"
-CMAP_RAW = "Oranges"
+# generate colormaps from white to colour
+COL_WHITE = "white"
+COL_RAW_RGB = mpl.colors.to_rgb(COL_RAW)
+COL_WEIGHTED_RGB = mpl.colors.to_rgb(COL_WEIGHTED)
+CMAP_RAW = mpl.colors.LinearSegmentedColormap.from_list(
+    "raw", [COL_WHITE, COL_RAW_RGB], N=256
+)
+CMAP_WEIGHTED = mpl.colors.LinearSegmentedColormap.from_list(
+    "weighted", [COL_WHITE, COL_WEIGHTED_RGB], N=256
+)
 
 
 def setup_plotting(
