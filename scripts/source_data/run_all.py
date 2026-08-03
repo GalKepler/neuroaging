@@ -1,7 +1,8 @@
 """Run every build_fig*.py script in order, then assemble the workbook.
 
 Usage: python scripts/source_data/run_all.py
-(build_fig6.py is slow - 20-40+ min - see README.md in this folder)
+(build_fig6.py and build_figS4.py are slow - 20-60+ min each - see README.md
+in this folder)
 """
 import subprocess
 import sys
@@ -16,6 +17,11 @@ SCRIPTS = [
     "build_fig5.py",
     "build_fig6.py",
     "build_fig7.py",
+    "build_figS1.py",
+    "build_figS2.py",
+    "build_figS3.py",
+    "build_figS4.py",
+    "build_figS5.py",
     "assemble_workbook.py",
 ]
 

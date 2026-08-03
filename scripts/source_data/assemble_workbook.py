@@ -27,8 +27,22 @@ SHEET_NAMES = {
     "fig6bc_binned_summary": "Fig6BC binned scatter",
     "fig6bc_model_summary": "Fig6BC model summary",
     "fig6d_regional_importance": "Fig6D regional importance",
+    "fig7_I_global_models": "Fig7-I global models",
     "fig7_II_sliding_window_betas": "Fig7-II window betas",
     "fig7_II_sliding_window_trajectory": "Fig7-II window traj",
+    "figS1_fit_curves": "FigS1 AD-RD fit curves",
+    "figS1_binned_summary": "FigS1 binned scatter",
+    "figS1_model_stats": "FigS1 model stats",
+    "figS2_metric_r2_matrix": "FigS2 metric R2 matrix",
+    "figS2_metric_distributions": "FigS2 metric distributions",
+    "figS3_fit_curves": "FigS3 WLS-vs-OLS fits",
+    "figS3_model_stats": "FigS3 model stats",
+    "figS4a_gmm_model_selection": "FigS4A GMM AIC-BIC sweep",
+    "figS4b_cluster_topography": "FigS4B cluster topography",
+    "figS4c_dice_stability": "FigS4C Dice stability",
+    "figS5_sliding_window_betas_grid": "FigS5 window betas grid",
+    "figS5_sliding_window_trajectory_grid": "FigS5 trajectory grid",
+    "figS5c_correlation_summary": "FigS5C correlation summary",
 }
 
 README = """Source Data - Divergent Multimodal Age-Association Profiles Across the Human Brain
@@ -36,6 +50,9 @@ README = """Source Data - Divergent Multimodal Age-Association Profiles Across t
 Every sheet contains AGGREGATED or MODEL-DERIVED results only - no
 participant-level rows anywhere in this file, per data-sharing restrictions
 on the underlying cohort (Helsinki approval 1356-14).
+
+Sheets prefixed "FigS" correspond to the Supplementary Figures (S1-S5);
+all other sheets correspond to the 7 main-text figures.
 
 Panels built from participant-level scatter plots in the manuscript
 (Fig 2A/B, Fig 3C, Fig 4B, Fig 6B/C) are represented here as (1) the
@@ -55,14 +72,6 @@ Known gaps / discrepancies, flagged during generation:
    since the analysis that produced the submitted numbers. Worth
    re-running against the exact data snapshot used for submission before
    this goes out as final Source Data.
-
-2. Figure 7, column I (global weighted BAG~phenotype model coefficients,
-   with/without age interaction) is NOT included. Reproducing it requires
-   ~/Projects/plasticityhub/sessions.csv and per-subject FreeSurfer stats
-   under /media/storage/yalab-dev/derivatives/freesurfer/, neither of which
-   was available on the machine this was generated on. Column II (the
-   sliding-window analysis, N=100/step=10, the paper's primary setting) is
-   included in full.
 
 Regenerate with: scripts/source_data/run_all.py (see README.md in that
 folder for data-path requirements).
